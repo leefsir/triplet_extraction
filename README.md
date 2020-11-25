@@ -17,13 +17,24 @@
 
 ## ·预测
 
-​    调用主工程目录下的model_predict.py文件
+​	调用主工程目录下的model_predict.py文件
 
 ```shell
  python train/model_train.py
 ```
 
+# 数据及模型依赖
 
+​	**·数据链接：https://pan.baidu.com/s/1D6JZMjQRonT83-MWgtsYsw** 
+
+​	**·提取码：5tv3** 
+
+​	**·链接：https://pan.baidu.com/s/1qoFBrw3rTPx4RFBwEYV7qA** 
+​	**·提取码：ljxh** 
+
+​	模型下载后放置于主工程的model目录下
+
+​	数据下载后替换主工程的data目录
 
 # 参考/感谢
 实体关系联合抽取:https://github.com/bojone/bert4keras/blob/master/examples/task_relation_extraction.py
