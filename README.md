@@ -18,6 +18,7 @@
 ## ·预测
 
 ​	调用主工程目录下的model_predict.py文件
+注意， 预测时优于json load 的原因，i2p_dict的键将变成str，但'p'类型是int。你需要将它的类型转换为str
 
 ```shell
  python train/model_train.py
